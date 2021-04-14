@@ -29,10 +29,12 @@ pip install pyclipper
 ```
 Alternatively, one can use [PyMesh](https://pymesh.readthedocs.io/en/latest/) for polyhedrons
 
+# Example queries
+
 # Acknowledgements
 ASP4BIM is currently being developed within the scope of my PhD project [Intelligent Software, Healing Environment](https://digit.au.dk/research-projects/intelligent-software-healing-environments/) at the Cyber-Physical Systems group, Aarhus University, Denmark. ASP4BIM is largely based on prototype systems [CLP(QS)](https://hub.docker.com/r/spatialreasoning/clpqs) and [ASPMT(QS)](https://hub.docker.com/r/spatialreasoning/aspmtqs), and draws from many theoretical and practical contributions of the modern ASP system `clingo`.  
 
-The data used in the source codes are by courtesy of Assoc.Prof. Jochen Teizer, Dr. Olga Golovina, and Asst.Prof. Aliakbar Kamari, thus for demonstration purposes only and strictly proprietary. I am also extremely grateful to my supervisors Asst.Prof. Carl Schultz and Prof. Peter Gorm Larsen for their guidance, and the Danish Independent Research Fund Denmark (DFF) for their financial support.
+The data used in the source codes, courtesy of Assoc.Prof. Jochen Teizer, Dr. Olga Golovina, and Asst.Prof. Aliakbar Kamari, are for demonstration purposes only and strictly proprietary. I am also extremely grateful to my supervisors Asst.Prof. Carl Schultz and Prof. Peter Gorm Larsen for their guidance, and the Independent Research Fund Denmark (DFF) for their financial support.
 
 Please kindly refer to the following research papers for an overview of Declarative Spatial Reasoning, Answer Set Programming, and Building Information Modelling  
 
